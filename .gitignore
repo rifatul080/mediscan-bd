@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Database
+backend/data/mediscan.db
+backend/data/backups/
+
+# Receipts
+backend/receipts/
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# VS Code
+.vscode/
