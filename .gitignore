@@ -17,3 +17,9 @@ frontend/build/
 
 # VS Code
 .vscode/
+
+# Logs / dev artifacts
+*.log
+backend/server.log
+frontend/client.log
+frontend/bundle.head.js
